@@ -6,15 +6,11 @@
 
 ✔ 🤔 &nbsp; Exploring **data science technologies** and developing **machine learning** software solutions.
 
-✔ 🎓 &nbsp; Studying **Electrical Engineering** 10/10
+✔ 🎓 &nbsp; Graduated at **Electrical Engineering** 10/10
 
-✔ 💼 &nbsp; Working as  **Data Scientist** (intern) at Eldorado Institute
+✔ 💼 &nbsp; Working as  **Data Scientist**  at Eldorado Institute
 
 ✔ 🌱 &nbsp; Learning about **data science & machine learning  & statistic & dev skills**
-
-✔ 💡I’m currently Developing my **Final Paper** about Autonomous Ships with **Deep Learning** techniques
-
-✔ 😎 Fun fact : *When I can't solve a complex problem, I try to sleep while thinking about possible solutions to it. Sometimes it works.* 😎
 
 ---
 
