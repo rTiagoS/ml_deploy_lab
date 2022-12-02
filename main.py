@@ -13,7 +13,7 @@ PAGES = [
 def main():
     
     # Dashboard
-    abstract_text = st.markdown(get_file_content_as_string("markdowns/abstract/abstract_p0.md"))
+    abstract_text = st.markdown(get_file_content_as_string("markdowns/abstract_p0.md"))
 
     # Add an app mode in the sidebar.
     st.sidebar.title("Explore Around")
