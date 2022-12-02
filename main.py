@@ -1,8 +1,6 @@
 # Libs
 import streamlit as st
 
-from modules import intro, dashboard
-
 
 # Set page title and favicon
 st.set_page_config(page_title = 'INF-0047 Cloud Based AI', page_icon = "", layout="wide", initial_sidebar_state="expanded")
